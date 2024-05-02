@@ -27,20 +27,6 @@
 - 用户可以注册和登录账号。
 - 用户可以发布新的头条新闻，并进行编辑和删除操作。
 
-## 快速开始
-
-1. 克隆项目到本地：
-
-```
-git clone git@github.com:Drip123456/Headline-vue3-SpringBoot.git
-```
-
-2. 快速启动
-
-```
-npm install
-npm run dev
-```
 
 ## 项目演示
 
